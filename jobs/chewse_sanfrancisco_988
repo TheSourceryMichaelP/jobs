@@ -1,0 +1,24 @@
+---
+title: Software Engineer
+company: Chewse
+url: http://www.thesourcery.com/jobs/988
+location: SOMA, San Francisco, California 
+contract: permanent
+contact:
+    name: Mr. Michael Phan
+    email: michael@thesourcery.com
+    phone: (415) 992-8131
+    ...: ...
+created: !!timestamp '2015-07-23' 
+tags:
+  - python
+  - django
+  - javascript
+  - angular
+  - junior
+---
+
+Chewse is hiring a Software Engineer to build out new features for their growing product and collaborate with their team as they integrate services to keep clients fed and happy. 
+They’ve built a great product from the beginning and as they expand, there’s a lot of opportunity to refine all aspects of tooling, code and processes. 
+
+Please send a CV to the address above.
